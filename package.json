@@ -1,7 +1,11 @@
 {
   "name": "title-case-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts to title case",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadmanhere/title-case-converter"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
