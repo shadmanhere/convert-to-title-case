@@ -1,5 +1,5 @@
 {
-  "name": "title-case-converter",
+  "name": "converter-to-title-case",
   "version": "1.0.1",
   "description": "Converts to title case",
   "repository": {
@@ -11,9 +11,13 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "Shadman",
+  "author": "Shadman Ali <shadman.ali@live.co.uk>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^10.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/shadmanhere/title-case-converter/issues"
+  },
+  "homepage": "https://github.com/shadmanhere/title-case-converter"
 }
