@@ -2,5 +2,5 @@
 
 ## Usage
 ```
-const toTitleCase = require('converter-to-title-case');
+const toTitleCase = require('convert-to-title-case');
 ```
