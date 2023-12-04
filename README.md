@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Title Case Converter</h1>
+  <h1>Convert To Title Case</h1>
   
   <p>
   
@@ -48,7 +48,7 @@ An [NPM Module](https://www.npmjs.com/package/convert-to-title-case) that simpli
 
 ## :star2: About the Project
 
-The `title-case-converter` module is a versatile and user-friendly tool that ensures a consistent and aesthetically pleasing Title Case presentation for diverse input text styles.
+The `convert-to-title-case` module is a versatile and user-friendly tool that ensures a consistent and aesthetically pleasing Title Case presentation for diverse input text styles.
 
 ### :pen: Supported Cases and Examples
 
