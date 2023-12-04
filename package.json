@@ -1,10 +1,10 @@
 {
   "name": "convert-to-title-case",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Converts to title case",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shadmanhere/title-case-converter"
+    "url": "https://github.com/shadmanhere/convert-to-title-case"
   },
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "mocha": "^10.2.0"
   },
   "bugs": {
-    "url": "https://github.com/shadmanhere/title-case-converter/issues"
+    "url": "https://github.com/shadmanhere/convert-to-title-case/issues"
   },
-  "homepage": "https://github.com/shadmanhere/title-case-converter"
+  "homepage": "https://github.com/shadmanhere/convert-to-title-case"
 }
