@@ -125,7 +125,7 @@ console.log(`Title Case: ${titleCasedString}`); // Output: Hello World
 ## :wave: Contributing
 
 <a href="https://github.com/shadmanhere/title-case-converter/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shadmanhere/title-case-converter" />
+  <img src="https://contrib.rocks/image?repo=shadmanhere/convert-to-title-case" />
 </a>
 
 Contributions are always welcome!
